@@ -7,3 +7,11 @@ Tech Stack
 - Kotlin
 - Jetpack Compose
 - Retrofit
+
+
+Screenshots
+------------------------------------------------------------
+
+HomeScreen UI<img width="1469" height="3104" alt="HomeScreen ss" src="https://github.com/user-attachments/assets/3788151d-3b77-4683-89a6-516484376202" />
+
+--------------
