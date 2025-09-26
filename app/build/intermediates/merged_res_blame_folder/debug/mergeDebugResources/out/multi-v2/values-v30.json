@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.mysecondapp.basicapifetch.app-mergeDebugResources-31:/values-v30/values-v30.xml",
+            "outputFile": "com.mysecondapp.basicapifetch.app-mergeDebugResources-40:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\f2dcdc092019d134b9a5c09a4e7e5d90\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\7182a843c470e2f01da5c99d072db844\\transformed\\material3\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

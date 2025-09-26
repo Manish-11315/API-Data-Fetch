@@ -8,12 +8,14 @@
         android:minSdkVersion="28"
         android:targetSdkVersion="36" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
     <permission
         android:name="com.mysecondapp.basicapifetch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.mysecondapp.basicapifetch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -42,10 +44,6 @@
         <activity
             android:name="androidx.compose.ui.tooling.PreviewActivity"
             android:exported="true" />
-        <activity
-            android:name="androidx.activity.ComponentActivity"
-            android:exported="true"
-            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -64,6 +62,11 @@
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <activity
+            android:name="androidx.activity.ComponentActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
 
         <receiver
             android:name="androidx.profileinstaller.ProfileInstallReceiver"

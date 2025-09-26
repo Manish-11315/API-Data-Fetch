@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.mysecondapp.basicapifetch.app-mergeDebugResources-31:/values-bs/values-bs.xml",
+            "outputFile": "com.mysecondapp.basicapifetch.app-mergeDebugResources-40:/values-bs/values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\9092570b2d8b767ec841db92392959e1\\transformed\\material\\res\\values-bs\\values-bs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "94",
-                        "endOffsets": "145"
-                    },
-                    "to": {
-                        "startLines": "83",
-                        "startColumns": "4",
-                        "startOffsets": "8929",
-                        "endColumns": "94",
-                        "endOffsets": "9019"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\09c7a3e90221c8d36ec45fbdc7d651db\\transformed\\ui-release\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\36a0f42147c1b035304a41f3dd7c279f\\transformed\\ui-release\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\5028f52d2cd7191bd6f32e8f0d624951\\transformed\\foundation-release\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\6d2f99118bddcfec7e2566aa1b0690a1\\transformed\\material\\res\\values-bs\\values-bs.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,145,235",
-                        "endColumns": "89,89,91",
-                        "endOffsets": "140,230,322"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "94",
+                        "endOffsets": "145"
                     },
                     "to": {
-                        "startLines": "2,97,98",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "105,10134,10224",
-                        "endColumns": "89,89,91",
-                        "endOffsets": "190,10219,10311"
+                        "startLines": "83",
+                        "startColumns": "4",
+                        "startOffsets": "8929",
+                        "endColumns": "94",
+                        "endOffsets": "9019"
                     }
                 },
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\44f90740be9d1e7e568a9bceb94ee1d6\\transformed\\core-1.17.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\a3693e5bcdeebad80522e4d0637a6cdc\\transformed\\core-1.17.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -72,7 +55,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\f2dcdc092019d134b9a5c09a4e7e5d90\\transformed\\material3\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\1e4f25391f2230319df99b067d183567\\transformed\\foundation-release\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,145,235",
+                        "endColumns": "89,89,91",
+                        "endOffsets": "140,230,322"
+                    },
+                    "to": {
+                        "startLines": "2,97,98",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,10134,10224",
+                        "endColumns": "89,89,91",
+                        "endOffsets": "190,10219,10311"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\7182a843c470e2f01da5c99d072db844\\transformed\\material3\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

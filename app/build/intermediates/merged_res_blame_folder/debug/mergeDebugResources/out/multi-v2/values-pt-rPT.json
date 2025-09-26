@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.mysecondapp.basicapifetch.app-mergeDebugResources-31:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.mysecondapp.basicapifetch.app-mergeDebugResources-40:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\09c7a3e90221c8d36ec45fbdc7d651db\\transformed\\ui-release\\res\\values-pt-rPT\\values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "198,293,376,473,572,658,737,834,925,1012,1097,1187,1263,1348,1424,1503,1578,1654,1726",
-                        "endColumns": "94,82,96,98,85,78,96,90,86,84,89,75,84,75,78,74,75,71,121",
-                        "endOffsets": "288,371,468,567,653,732,829,920,1007,1092,1182,1258,1343,1419,1498,1573,1649,1721,1843"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,13,14,15,16,84,85,86,87,88,89,90,91,92,94,95,96",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "929,1024,1107,1204,1303,1389,1468,9106,9197,9284,9369,9459,9535,9620,9696,9775,9951,10027,10099",
-                        "endColumns": "94,82,96,98,85,78,96,90,86,84,89,75,84,75,78,74,75,71,121",
-                        "endOffsets": "1019,1102,1199,1298,1384,1463,1560,9192,9279,9364,9454,9530,9615,9691,9770,9845,10022,10094,10216"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\9092570b2d8b767ec841db92392959e1\\transformed\\material\\res\\values-pt-rPT\\values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "88",
-                        "endOffsets": "139"
-                    },
-                    "to": {
-                        "startLines": "83",
-                        "startColumns": "4",
-                        "startOffsets": "9017",
-                        "endColumns": "88",
-                        "endOffsets": "9101"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\5028f52d2cd7191bd6f32e8f0d624951\\transformed\\foundation-release\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\1e4f25391f2230319df99b067d183567\\transformed\\foundation-release\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -55,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\f2dcdc092019d134b9a5c09a4e7e5d90\\transformed\\material3\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\7182a843c470e2f01da5c99d072db844\\transformed\\material3\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\44f90740be9d1e7e568a9bceb94ee1d6\\transformed\\core-1.17.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\a3693e5bcdeebad80522e4d0637a6cdc\\transformed\\core-1.17.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -86,6 +52,40 @@
                         "startOffsets": "197,294,396,495,595,702,808,9850",
                         "endColumns": "96,101,98,99,106,105,120,100",
                         "endOffsets": "289,391,490,590,697,803,924,9946"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\6d2f99118bddcfec7e2566aa1b0690a1\\transformed\\material\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "88",
+                        "endOffsets": "139"
+                    },
+                    "to": {
+                        "startLines": "83",
+                        "startColumns": "4",
+                        "startOffsets": "9017",
+                        "endColumns": "88",
+                        "endOffsets": "9101"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manis\\.gradle\\caches\\8.13\\transforms\\36a0f42147c1b035304a41f3dd7c279f\\transformed\\ui-release\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "198,293,376,473,572,658,737,834,925,1012,1097,1187,1263,1348,1424,1503,1578,1654,1726",
+                        "endColumns": "94,82,96,98,85,78,96,90,86,84,89,75,84,75,78,74,75,71,121",
+                        "endOffsets": "288,371,468,567,653,732,829,920,1007,1092,1182,1258,1343,1419,1498,1573,1649,1721,1843"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,84,85,86,87,88,89,90,91,92,94,95,96",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "929,1024,1107,1204,1303,1389,1468,9106,9197,9284,9369,9459,9535,9620,9696,9775,9951,10027,10099",
+                        "endColumns": "94,82,96,98,85,78,96,90,86,84,89,75,84,75,78,74,75,71,121",
+                        "endOffsets": "1019,1102,1199,1298,1384,1463,1560,9192,9279,9364,9454,9530,9615,9691,9770,9845,10022,10094,10216"
                     }
                 }
             ]
