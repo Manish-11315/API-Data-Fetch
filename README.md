@@ -12,7 +12,7 @@ Screenshots
 ------------------------------------------------------------
 
  
-HomeScreen UI                                                                                                     
+HomeScreen UI                                                                                                       
 --------------                                                                                                                                                                                    
 
 <img width="1469" height="3104" alt="HomeScreen ss" src="https://github.com/user-attachments/assets/4ff4f888-94ea-4a75-840d-0f22e9d4e300" />                                                
